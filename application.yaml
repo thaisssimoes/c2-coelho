@@ -1,4 +1,4 @@
-prd:
+dev:
   postgres:
     password: N8x89@&9
     user: SA
