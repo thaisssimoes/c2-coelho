@@ -1,0 +1,6 @@
+prd:
+  postgres:
+    password: N8x89@&9
+    user: SA
+    host: localhost
+    port: 5432
